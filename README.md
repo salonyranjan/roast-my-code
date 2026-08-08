@@ -11,7 +11,7 @@ Every repo becomes a printed kitchen ticket: a 0–3 star rating, a rubber-stamp
 -->
 ![demo](./docs/demo.gif)
 
-[**🚀 Try it live →**](#) &nbsp;·&nbsp; [Deploy your own](#deploy-your-own)
+[**🚀 Try it live →**](https://roast-my-code-delta.vercel.app/) &nbsp;·&nbsp; [Deploy your own](https://roast-my-code-delta.vercel.app/)
 
 ---
 
