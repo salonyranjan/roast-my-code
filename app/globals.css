@@ -1,0 +1,45 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  color-scheme: dark;
+}
+
+html,
+body {
+  background-color: #0b0b0c;
+  color: #f2ede4;
+}
+
+body {
+  background-image:
+    radial-gradient(ellipse 80% 50% at 50% -10%, rgba(255, 77, 46, 0.10), transparent),
+    url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='120' height='120'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.9' numOctaves='2' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)' opacity='0.045'/%3E%3C/svg%3E");
+}
+
+::selection {
+  background: #ff4d2e;
+  color: #0b0b0c;
+}
+
+/* Torn paper edge for the ticket */
+.torn-top {
+  -webkit-mask-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 16' preserveAspectRatio='none'%3E%3Cpath d='M0 16 L0 6 L10 12 L22 2 L35 10 L48 4 L62 13 L76 3 L90 11 L104 5 L118 14 L132 2 L146 9 L160 4 L174 12 L188 6 L202 15 L216 3 L230 10 L244 5 L258 13 L272 2 L286 9 L300 4 L314 12 L328 6 L342 15 L356 3 L370 10 L384 5 L400 12 L400 16 Z'/%3E%3C/svg%3E");
+  mask-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 16' preserveAspectRatio='none'%3E%3Cpath d='M0 16 L0 6 L10 12 L22 2 L35 10 L48 4 L62 13 L76 3 L90 11 L104 5 L118 14 L132 2 L146 9 L160 4 L174 12 L188 6 L202 15 L216 3 L230 10 L244 5 L258 13 L272 2 L286 9 L300 4 L314 12 L328 6 L342 15 L356 3 L370 10 L384 5 L400 12 L400 16 Z'/%3E%3C/svg%3E");
+  -webkit-mask-size: 100% 100%;
+  mask-size: 100% 100%;
+  -webkit-mask-repeat: no-repeat;
+  mask-repeat: no-repeat;
+}
+
+.ticket-shadow {
+  box-shadow: 0 30px 60px -20px rgba(0, 0, 0, 0.7), 0 0 0 1px rgba(255, 255, 255, 0.04);
+}
+
+.dot-leader {
+  background-image: linear-gradient(to right, rgba(11, 11, 12, 0.35) 40%, transparent 0%);
+  background-position: bottom;
+  background-size: 6px 1px;
+  background-repeat: repeat-x;
+}

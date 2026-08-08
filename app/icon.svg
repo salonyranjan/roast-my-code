@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <rect width="64" height="64" rx="16" fill="#000000"/>
+  <!-- Skull Outline -->
+  <path d="M20 18 C20 12, 44 12, 44 18 L44 32 C44 42, 38 46, 32 46 C26 46, 20 42, 20 32 Z" fill="#18181b" stroke="#ef4444" stroke-width="3"/>
+  <!-- Eye Sockets -->
+  <circle cx="27" cy="26" r="4" fill="#ef4444"/>
+  <circle cx="37" cy="26" r="4" fill="#ef4444"/>
+  <!-- Terminal Prompt Slash Across the Forehead -->
+  <path d="M16 10 L48 54" stroke="#f97316" stroke-width="5" stroke-linecap="round"/>
+</svg>
