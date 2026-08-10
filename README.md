@@ -101,6 +101,24 @@ MIT — see [LICENSE](./LICENSE).
 
 ---
 
+## 👤 Author
+
+<table style="border:none;">
+  <tr>
+    <td align="center" style="border:none;" width="150">
+      <img src="https://github.com/salonyranjan.png" width="130" style="border-radius:0px; border:3px solid #00F0FF; box-shadow:0 0 25px #00F0FF, 0 0 50px #FF005540;" alt="Salony Ranjan" />
+    </td>
+    <td style="border:none; padding-left:22px;">
+      <h3>✦ Salony Ranjan</h3>
+      <br/>
+      <a href="https://www.linkedin.com/in/salonyranjan/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+      &nbsp;
+    </td>
+  </tr>
+</table>
+
+---
+
 <div align="center">
 
 ### 🔥 If your code got roasted and you liked it — that's the whole point. Star it.
