@@ -18,11 +18,6 @@
 
 <br/><br/>
 
-[![Live Demo](https://img.shields.io/badge/🚀_Try_It_Live-ea580c?style=for-the-badge)](https://roast-my-code-delta.vercel.app/)
-[![Deploy with Vercel](https://img.shields.io/badge/▲_Deploy_Your_Own-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com/new/clone?repository-url=https://github.com/salonyranjan/roast-my-code&env=GROQ_API_KEY&envDescription=Get%20a%20free%20key%20from%20console.groq.com/keys)
-[![License](https://img.shields.io/badge/license-MIT-1f2937?style=for-the-badge)](./LICENSE)
-[![Stars](https://img.shields.io/github/stars/salonyranjan/roast-my-code?style=for-the-badge&color=ea580c)](https://github.com/salonyranjan/roast-my-code/stargazers)
-
 <img src="https://img.shields.io/badge/Next.js-14-000000?style=for-the-badge&logo=next.js&logoColor=white" />
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
 <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
